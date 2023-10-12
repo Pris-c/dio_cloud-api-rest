@@ -12,3 +12,5 @@ It have been used:
 * Spring Boot 3.1.4
 * Gradle 7.6.1
 * Postgres
+
+Based on this activit, I also develop another API which is available at the following repository: https://github.com/Pris-c/hp-characters-age
